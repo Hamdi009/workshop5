@@ -1,0 +1,4 @@
+src/file1.txt: 4 lines
+src/file2.txt: 5 lines
+src/file3.txt: 3 lines
+Total lines: 12

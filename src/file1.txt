@@ -1,0 +1,4 @@
+This is file 1.
+It contains some lines of text.
+Line 3.
+Line 4.

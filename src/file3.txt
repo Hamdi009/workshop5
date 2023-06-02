@@ -1,0 +1,3 @@
+Hello from file 3.
+It's a short file.
+Just a couple of lines.
